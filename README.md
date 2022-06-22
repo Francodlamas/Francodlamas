@@ -1,7 +1,7 @@
 <h1 align="center"> Hola soy Franco Damian Lamas 👋</h1>
 <h3 align="center"> Soy un desarrollador Full Stack 💻 y estudiante de ingenieria en informatica en UBA 📖 </h3>
  
-####conocedor de:
+#### Conocedor de:
 
 1. C++
 2. C#
