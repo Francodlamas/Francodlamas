@@ -8,6 +8,7 @@
 - Manejo de HTML, Bootstrap, CSS y SQL
 - Aguate Boca 💙💛💙
 
+<img src="https://c.tenor.com/cUpVSPi9J6AAAAAC/halfcat-simdemocracy.gif"></img>
 ![Foto Principio](https://c.tenor.com/cUpVSPi9J6AAAAAC/halfcat-simdemocracy.gif)
 <!--
 **Francodlamas/Francodlamas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
