@@ -9,7 +9,7 @@
 - Aguate Boca 💙💛💙
 
 <center>
-<img style="width=50px height=100px" src="https://64.media.tumblr.com/49b40cdcd8904fa951774afc03401a8f/3961198293df389d-e6/s1280x1920/15ef8357c9c301e80341be99188f621bb8e1ff36.gifv"></img>
+<img style="width=50px height=100px" src="https://64.media.tumblr.com/49b40cdcd8904fa951774afc03401a8f/3961198293df389de6/s1280x1920/15ef8357c9c301e80341be99188f621bb8e1ff36.gifv"></img>
 </center>
 
 <!--
