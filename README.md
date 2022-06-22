@@ -9,7 +9,7 @@
 - Aguate Boca 💙💛💙
 
 <center>
-<img style="width=5000px height=100px" src="https://c.tenor.com/JnTZZkZgBf4AAAAC/boca-juniors-boca-campeon.gif"></img>
+<img  src="https://c.tenor.com/JnTZZkZgBf4AAAAC/boca-juniors-boca-campeon.gif"></img>
 </center>
 
 <!--
