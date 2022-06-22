@@ -2,6 +2,7 @@
 <h3 align="center"> Soy un desarrollador Full Stack 💻 y estudiante de ingenieria en informatica en UBA 📖 </h3>
  
 ####conocedor de:
+
 1. C++
 2. C#
 3. JavaScript
