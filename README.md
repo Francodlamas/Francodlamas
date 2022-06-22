@@ -1,6 +1,12 @@
 <h1 align="center"> Hola soy Franco Damian Lamas 👋</h1>
-<h3 align="center"> Hola soy Franco Damian Lamas 👋</h3>
-
+<h3 align="center"> Soy un desarrollador Full Stack 💻 y estudiante de ingenieria en informatica en UBA 📖 </h3>
+ 
+####conocedor de:
+1. C++
+2. C#
+3. JavaScript
+4. HTML
+5. SQL
 
 <!--
 **Francodlamas/Francodlamas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
