@@ -8,7 +8,10 @@
 - Manejo de HTML, Bootstrap, CSS y SQL
 - Aguate Boca 💙💛💙
 
-<img align="center" style="width=50px height=100px" src="https://c.tenor.com/qTy-esG9DzoAAAAC/cabj-boca.gif"></img>
+<center>
+<img style="width=50px height=100px" src="https://c.tenor.com/qTy-esG9DzoAAAAC/cabj-boca.gif"></img>
+</center>
+
 <!--
 **Francodlamas/Francodlamas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
