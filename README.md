@@ -1,5 +1,5 @@
-# Hola soy Franco Damian Lamas 👋
-<h1 align="center">Material Bread</h1>
+<h1 align="center"> Hola soy Franco Damian Lamas 👋</h1>
+<h3 align="center"> Hola soy Franco Damian Lamas 👋</h3>
 
 
 <!--
