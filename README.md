@@ -3,7 +3,7 @@
  
 #### Acerca de mi
 
-- Estudiante de ORT Argentina
+- Egresado de ORT Argentina con honores
 - Conocedor de lenguajes C++, C# y JavaScript
 - Manejo de HTML, Bootstrap, CSS y SQL
 
